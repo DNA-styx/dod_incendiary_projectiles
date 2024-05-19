@@ -8,3 +8,6 @@ Simply shoot at the opponents with one of the two rocket launchers (Bazooka, Pan
 If you are hit, you will also catch fire!
 
 This plugin also works with bots!
+
+
+Use this plugin to stop the sounds once player is dead: https://forums.alliedmods.net/showthread.php?p=2039004
