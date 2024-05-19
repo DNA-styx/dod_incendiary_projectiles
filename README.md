@@ -10,4 +10,4 @@ If you are hit, you will also catch fire!
 This plugin also works with bots!
 
 
-Use this plugin to stop the sounds once player is dead: https://forums.alliedmods.net/showthread.php?p=2039004
+Use this plugin to stop the sound once player is dead: https://forums.alliedmods.net/showthread.php?p=2039004
